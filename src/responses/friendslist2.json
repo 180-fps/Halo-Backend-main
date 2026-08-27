@@ -1,0 +1,29 @@
+{
+  "friends": [
+    {
+      "accountId": "hunter",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-07-08T03:02:07.858Z"
+    },
+    {
+      "accountId": "reverse",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2026-07-14T03:42:14.248Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}

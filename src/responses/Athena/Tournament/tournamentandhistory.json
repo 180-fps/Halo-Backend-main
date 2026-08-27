@@ -1,0 +1,142 @@
+{
+  "author": "This response was recreated by PRO100KatYT for versions using the tournamentandhistory route (v6.10-v7.20)",
+  "eventTournaments": [
+    {
+      "tournamentId": "reversestournamentidlol",
+      "regions": [
+        "ASIA",
+        "BR",
+        "EU",
+        "ME",
+        "NAE",
+        "NAW",
+        "OCE"
+      ],
+      "platformGroups": [
+        "XboxOneGDK",
+        "PS4",
+        "XCloud",
+        "Helios",
+        "Luna",
+        "XCloudMobile",
+        "XB1",
+        "XboxOne",
+        "XSX",
+        "Android",
+        "LunaMobile",
+        "PS5",
+        "HeliosMobile",
+        "GFN",
+        "Switch",
+        "GFNMobile",
+        "Windows"
+      ],
+      "displayDataId": "Reverse_cup",
+      "announcementTime": "2018-10-16T08:00:00Z",
+      "beginTime": "2018-10-16T17:00:00Z",
+      "endTime": "2018-10-16T20:00:00Z",
+      "eventWindows": [
+        {
+          "eventWindowId": "reverseswindowidlol",
+          "countdownBeginTime": "2018-10-16T15:00:00Z",
+          "beginTime": "2018-10-16T17:00:00Z",
+          "endTime": "2018-10-16T20:00:00Z",
+          "isTBD": false,
+          "eventData": {
+            "playlistId": "Playlist_DefaultSolo",
+            "scoringRules": [
+              {
+                "trackedStat": "PLACEMENT_STAT_INDEX",
+                "mathRule": "lte",
+                "rewardTiers": [
+                  {
+                    "keyValue": 1,
+                    "pointsEarned": 2
+                  }
+                ]
+              },
+              {
+                "trackedStat": "TEAM_ELIMS_STAT_INDEX",
+                "mathRule": "gte",
+                "rewardTiers": [
+                  {
+                    "keyValue": 1,
+                    "pointsEarned": 3
+                  },
+                  {
+                    "keyValue": 2,
+                    "pointsEarned": 1
+                  },
+                  {
+                    "keyValue": 3,
+                    "pointsEarned": 7
+                  }
+                ]
+              }
+            ],
+            "rewardTable": [
+              {
+                "pointsEarned": 69,
+                "mcpTokenRewards": [
+                  "Token:campaignaccess"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "eventWindowHistories": [
+    {
+      "tournamentId": "reversestournamentidlol",
+      "eventWindowId": "reverseswindowidlol",
+      "matchIds": [
+        "reversesmatchid1lol",
+        "reversesmatchid2lol",
+        "reversesmatchid3lol",
+        "reversesmatchid4lol",
+        "reversesmatchid5lol",
+        "reversesmatchid6lol",
+        "reversesmatchid7lol",
+        "reversesmatchid8lol",
+        "reversesmatchid9lol",
+        "reversesmatchid10lol",
+        "reversesmatchid11lol",
+        "reversesmatchid12lol",
+        "reversesmatchid13lol",
+        "reversesmatchid14lol",
+        "reversesmatchid15lol",
+        "reversesmatchid16lol",
+        "reversesmatchid17lol",
+        "reversesmatchid18lol",
+        "reversesmatchid19lol",
+        "reversesmatchid20lol",
+        "reversesmatchid21lol",
+        "reversesmatchid22lol",
+        "reversesmatchid23lol"
+      ],
+      "teammateIds": [
+        "reverse",
+        "ti93",
+        "pro100katyt",
+        "playeereq",
+        "matteoki"
+      ],
+      "payload": {
+        "pointsEarned": 69,
+        "pointBreakdown": {
+          "TEAM_ELIMS_STAT_INDEX:1": {
+            "timesAchieved": 8,
+            "pointsEarned": 5
+          },
+          "PLACEMENT_STAT_INDEX:2": {
+            "timesAchieved": 7,
+            "pointsEarned": 64
+          }
+        }
+      }
+    }
+  ]
+}
+

@@ -1,0 +1,16 @@
+[
+  {
+    "accountId": "hunter",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2026-07-08T03:02:07.858Z",
+    "favorite": false
+  },
+  {
+    "accountId": "reverse",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2026-07-14T03:42:14.248Z",
+    "favorite": false
+  }
+]

@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+
+gem "sinatra", "~> 3.2"
+gem "sinatra-contrib", "~> 3.2"
+gem "puma", "~> 6.4"
+gem "dotenv", "~> 3.1"
+gem "json", "~> 2.7"
+gem "inifile", "~> 3.0"
+gem "faye-websocket", "~> 0.11"
+gem "eventmachine", "~> 1.2"
